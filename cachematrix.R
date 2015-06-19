@@ -1,5 +1,8 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Create a list for holding a matrix and its inverse
+## Create a function for getting the inverse of a matrix
+##   from this list
+## The function will first check for the inverse from the list
+##   and compute it if it does not exist
 
 ## makeCacheMatrix holds a matrix and its inverse, once set
 
